@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import styled from "styled-components"
-import MenuIcon from '@mui/icons-material/Menu';
-import CloseIcon from '@mui/icons-material/Close';
+// import MenuIcon from '@mui/icons-material/Menu';
+// import CloseIcon from '@mui/icons-material/Close';
 import {selectCars} from '../features/car/carSlice'
 import {useSelector} from 'react-redux';
 
@@ -89,7 +89,7 @@ const RightMenu = styled.div`
     margin-right:10px;
   }
   `
-const CustomMenu =styled(MenuIcon)`cursor:pointer;`
+// const CustomMenu =styled(MenuIcon)`cursor:pointer;`
 
 const BurgerNav= styled.div`
   position:fixed;
