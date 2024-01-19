@@ -5,13 +5,10 @@
 This project is a clone of the Tesla homepage created using React and styled with styled-components.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 
 
-## Demo
-You can check out a live demo of the Tesla Homepage Clone [here](#).
 
 ## Features
 - Responsive design, ensuring a seamless experience on various devices.
