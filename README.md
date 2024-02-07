@@ -1,6 +1,6 @@
 # Tesla Homepage Clone
 
-![Tesla Homepage Clone](screenshot.png)
+![Tesla Homepage Clone]
 
 This project is a clone of the Tesla homepage created using React and styled with styled-components.
 
